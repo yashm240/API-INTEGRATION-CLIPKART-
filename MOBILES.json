@@ -37,12 +37,16 @@
     "Price":"8999",
     "Image":"https://modmobile.in/media/catalog/product/cache/27f84b85f09670c0027cc5ac859c2eb4/5/1/51e-hulzw5l._sy741__c8vxrlny6k8wu8zc.jpg"
   },{
-    "Name":"Motorola Moto G5",
+    "Name":"Motorola G5",
     "Price":"23499",
     "Image":"https://www.91-img.com/pictures/114165-v1-moto-g5-plus-32gb-mobile-phone-large-1.jpg"
   },{
     "Name":"Alcaletel Note 3",
     "Price":"6999",
     "Image":"https://www.gizmochina.com/wp-content/uploads/2019/02/Alcatel-3C.jpg"
+  },{
+    "Name":"Redmi Note 6",
+    "Price":"12000",
+    "Image":"https://www.91-img.com/pictures/131405-v3-xiaomi-redmi-note-6-pro-6gb-ram-mobile-phone-large-1.jpg"
   }
 ]
